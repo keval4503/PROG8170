@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment2UnitTesting
 {
-    internal class Rectangle
+    public class Rectangle
     {
         public int length;
         public int width;

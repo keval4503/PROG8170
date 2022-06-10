@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
-using NUnitDemonstration;
+using Assignment2UnitTesting;
+
 
 namespace UnitTesting
 {
@@ -17,7 +18,7 @@ namespace UnitTesting
         public void GetPerimeterMethodTest(int l, int w, int expected)
         {
             Assignment2UnitTesting.Rectangle _rect = new Assignment2UnitTesting.Rectangle(w, l);
-            int result = _rect.GetPerimeter();
+            int result = _rect.CalculatePerimeter();
             Assert.AreEqual(expected, result);
         }
 
@@ -28,7 +29,7 @@ namespace UnitTesting
         public void GetAreaMethodTest(int l, int w, int expected)
         {
             Assignment2UnitTesting.Rectangle _rect = new Assignment2UnitTesting.Rectangle(w, l);
-            int result = _rect.GetArea();
+            int result = _rect.CalculateArea();
             Assert.AreEqual(expected, result);
         }
 
