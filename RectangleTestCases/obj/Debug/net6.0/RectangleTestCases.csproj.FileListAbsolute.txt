@@ -1,5 +1,0 @@
-C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\Rectangle\RectangleTestCases\obj\Debug\net6.0\RectangleTestCases.csproj.AssemblyReference.cache
-C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\Rectangle\RectangleTestCases\obj\Debug\net6.0\RectangleTestCases.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\Rectangle\RectangleTestCases\obj\Debug\net6.0\RectangleTestCases.AssemblyInfoInputs.cache
-C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\Rectangle\RectangleTestCases\obj\Debug\net6.0\RectangleTestCases.AssemblyInfo.cs
-C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\Rectangle\RectangleTestCases\obj\Debug\net6.0\RectangleTestCases.csproj.CoreCompileInputs.cache
